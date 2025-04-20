@@ -36,7 +36,7 @@
 ![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![APP]
+
 
 
 <div align="center">
